@@ -6,6 +6,6 @@ Activities related to Microsoft PL-300
 
 ### Visualize and Analyze the Data
 - [x] Create Reports
-  - Creating and formatting a table visualization
-  - Formatting visualization
-  - 
+  1. Creating and formatting a table visualization
+  2. Formatting visualization
+  3.  
