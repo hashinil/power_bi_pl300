@@ -2,10 +2,27 @@
 Activities related to Microsoft PL-300
 
 
-## Part 1
-
 ### Visualize and Analyze the Data
 - [x] Create Reports
   1. Creating and formatting a table visualization
   2. Formatting visualization
-  3.  
+     
+- [ ] Create Dashboards
+- [ ] Enhance reports for usability and storytelling
+- [ ] Identify patterns and trends
+
+### Prepare the data
+- [ ] Get data from different data sources
+- [ ] clean transform and load the data
+
+### Model the data
+- [ ] Design a data model
+- [ ] Develop a data model
+- [ ] Create model calculation by  using DAX
+- [ ] Optimize model performance
+
+### Deploy and maintain Assets
+- [ ] Manage files and datasets
+- [ ] manage workspaces
+
+
