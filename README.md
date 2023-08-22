@@ -12,7 +12,12 @@ Activities related to Microsoft PL-300
       >Text boxes, Images, Filtering slicer, Sorting, Small multiples, Bookmarks, Drill through, Buttons & Actions, Q&A, Tooltips, Page & Bookmark nav
   5. Other visualization
       >Charts (Ribbon, Waterfall, Scatter, Bubble, Dot, Pie, Donut, Treemap, Funnel 
-  6. 
+  6. Mapping
+      >Map, Formating, Adding data categories, Filled map, Conditional formatting, Hierarchies, 
+  7. qqq
+  8. q
+     
+  9. 
      
 - [ ] Create Dashboards
 - [ ] Enhance reports for usability and storytelling
