@@ -6,8 +6,11 @@ Activities related to Microsoft PL-300
 - [x] Create Reports
   1. Creating and formatting a table visualization
   2. Formatting visualization
-  3. Creating different visualization -  Matrix, charts
-  4. Adding more control to visualization - text boxes, images, filtering slicer, sorting, small multiples, bookmarks,
+  3. Creating different visualization 
+      >Matrix, Drill down, charts - (stacked bar, clustered, 100% stacked bar, Line, Area, Combo)
+  4. Adding more control to visualization
+      >text boxes, images, filtering slicer, sorting, small multiples, bookmarks, Drill through, Buttons & Actions, Q&A, Tooltips, Page & bookmark nav
+  5. 
      
 - [ ] Create Dashboards
 - [ ] Enhance reports for usability and storytelling
