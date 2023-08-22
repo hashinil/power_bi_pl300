@@ -7,10 +7,12 @@ Activities related to Microsoft PL-300
   1. Creating and formatting a table visualization
   2. Formatting visualization
   3. Creating different visualization 
-      >Matrix, Drill down, charts - (stacked bar, clustered, 100% stacked bar, Line, Area, Combo)
+      >Matrix, Drill down, Charts - (Stacked bar, Clustered, 100% Stacked bar, Line, Area, Combo)
   4. Adding more control to visualization
-      >text boxes, images, filtering slicer, sorting, small multiples, bookmarks, Drill through, Buttons & Actions, Q&A, Tooltips, Page & bookmark nav
-  5. 
+      >Text boxes, Images, Filtering slicer, Sorting, Small multiples, Bookmarks, Drill through, Buttons & Actions, Q&A, Tooltips, Page & Bookmark nav
+  5. Other visualization
+      >Charts (Ribbon, Waterfall, Scatter, Bubble, Dot, Pie, Donut, Treemap, Funnel 
+  6. 
      
 - [ ] Create Dashboards
 - [ ] Enhance reports for usability and storytelling
