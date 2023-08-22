@@ -13,10 +13,10 @@ Activities related to Microsoft PL-300
   5. Other visualization
       >Charts (Ribbon, Waterfall, Scatter, Bubble, Dot, Pie, Donut, Treemap, Funnel 
   6. Mapping
-      >Map, Formating, Adding data categories, Filled map, Conditional formatting, Hierarchies, 
-  7. qqq
+      >Map, Formating, Adding data categories, Filled map, Conditional formatting, Hierarchies
+  7. Measure Performance
+      >Gauges, Cards, Conditional formatting, KPI, 
   8. q
-     
   9. 
      
 - [ ] Create Dashboards
