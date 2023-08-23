@@ -33,7 +33,7 @@ Activities related to Microsoft PL-300
 1. Get Data 
      >Power query editor - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
 2. Getting multiple Files 
-     >
+     >Merge queries, Appending queries, Combined files
 3. 
       >
 4. 
