@@ -4,6 +4,10 @@ Activities related to Microsoft PL-300
 
 ### Visualize and Analyze the Data
 - [x] Create Reports
+- [x] Create Dashboards
+- [x] Enhance reports for usability and storytelling
+- [x] Identify patterns and trends
+
   1. Creating and formatting a table visualization
   2. Formatting visualization
   3. Creating different visualization 
@@ -20,13 +24,27 @@ Activities related to Microsoft PL-300
       >define quick measures, Export data, Reference line, Trends Line, forecast, error bars, outliers, clusters, Anomaly detection, Smart naratives,         Group, Binning, Key influencers, Analyze feature, decomposition tree
       >powerbi report builder 
      
-- [ ] Create Dashboards
-- [ ] Enhance reports for usability and storytelling
-- [ ] Identify patterns and trends
 
-### Prepare the data
+### Prepare the Data
 - [ ] Get data from different data sources
+- [ ] Profile the data
 - [ ] clean transform and load the data
+
+  1. 
+  2. 
+  3. 
+      >
+  4. 
+      >
+  5. 
+      > 
+  6. 
+      >
+  7. 
+      >
+  8. 
+      >
+      > 
 
 ### Model the data
 - [ ] Design a data model
