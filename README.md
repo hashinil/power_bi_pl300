@@ -15,9 +15,10 @@ Activities related to Microsoft PL-300
   6. Mapping
       >Map, Formating, Adding data categories, Filled map, Conditional formatting, Hierarchies
   7. Measure Performance
-      >Gauges, Cards, Conditional formatting, KPI, 
-  8. q
-  9. 
+      >Gauges, Cards, Conditional formatting, KPI 
+  8. Identify Patterns, trends and Other visualization items
+      >define quick measures, Export data, Reference line, Trends Line, forecast, error bars, outliers, clusters, Anomaly detection, Smart naratives,         Group, Binning, Key influencers, Analyze feature, decomposition tree
+      >powerbi report builder 
      
 - [ ] Create Dashboards
 - [ ] Enhance reports for usability and storytelling
