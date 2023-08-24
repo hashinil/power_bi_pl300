@@ -36,9 +36,9 @@ Activities related to Microsoft PL-300
      >Power query editor: Home - Merge queries, Appending queries, Combined files, Load multiple files
 3. Transform
       > pivot, unpivot
-4. Transform/ Add columns
-      >Merged Columns, Add columns, Text Extract, Parse, Numbers
-5. 
+4. Transform - Text and numbers
+      >Add columns, Merged Columns, Text Extract, Parse, Numbers
+5. Transform - Date and Time
       > 
 6. 
       >
