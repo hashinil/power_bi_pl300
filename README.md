@@ -35,9 +35,9 @@ Activities related to Microsoft PL-300
 2. Getting multiple Files 
      >Power query editor: Home - Merge queries, Appending queries, Combined files, Load multiple files
 3. Transform
-      >
-4. 
-      >
+      > pivot, unpivot
+4. Transform
+      >Text and Numbers
 5. 
       > 
 6. 
