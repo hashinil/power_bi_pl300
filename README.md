@@ -39,7 +39,7 @@ Activities related to Microsoft PL-300
 4. Transform - Text and numbers
       >Add columns, Merged Columns, Text Extract, Parse, Numbers
 5. Transform - Date and Time
-      > 
+      > Creating list of dates, other cultures, durations
 6. 
       >
 7. 
