@@ -31,10 +31,10 @@ Activities related to Microsoft PL-300
 - [ ] clean transform and load the data
 -----------------------------------------------------------------------------------------
 1. Get Data 
-     >Power query editor - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
+     >Power query editor: Home - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
 2. Getting multiple Files 
-     >Merge queries, Appending queries, Combined files
-3. 
+     >Power query editor: Home - Merge queries, Appending queries, Combined files, Load multiple files
+3. Transform
       >
 4. 
       >
