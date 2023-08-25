@@ -26,9 +26,9 @@ Activities related to Microsoft PL-300
  -----------------------------------------------------------------------------------------    
 
 ### Prepare the Data
-- [ ] Get data from different data sources
-- [ ] Profile the data
-- [ ] clean transform and load the data
+- [x] Get data from different data sources
+- [x] Profile the data
+- [x] clean transform and load the data
 -----------------------------------------------------------------------------------------
 1. Get Data 
      >Power query editor: Home - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
