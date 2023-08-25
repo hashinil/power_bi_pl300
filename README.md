@@ -43,7 +43,7 @@ Activities related to Microsoft PL-300
 6. Conditional columns 
       >columns from examples, Conditional columns, Resolve errors, Index & duplicate columns, Local
 7. View, Help
-      view, help, profiling data, advanced editor 
+      view, help, profiling data, advanced editor, M Function
 8. 
       >
       > 
