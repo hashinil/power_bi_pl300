@@ -7,7 +7,7 @@ Activities related to Microsoft PL-300
 - [x] Create Dashboards
 - [x] Enhance reports for usability and storytelling
 - [x] Identify patterns and trends
------------------------------------------------------------------------------------------
+
 1. Creating and formatting a table visualization
 2. Formatting visualization
 3. Creating different visualization 
@@ -21,15 +21,14 @@ Activities related to Microsoft PL-300
 7. Measure Performance
       >Gauges, Cards, Conditional formatting, KPI 
 8. Identify Patterns, trends and Other visualization items
-      >define quick measures, Export data, Reference line, Trends Line, forecast, error bars, outliers, clusters, Anomaly detection, Smart naratives,         Group, Binning, Key influencers, Analyze feature, decomposition tree
-      >powerbi report builder 
+      >define quick measures, Export data, Reference line, Trends Line, forecast, error bars, outliers, clusters, Anomaly detection, Smart naratives,         Group, Binning, Key influencers, Analyze feature, decomposition tree, powerbi report builder 
  -----------------------------------------------------------------------------------------    
 
 ### 2. Prepare the Data
 - [x] Get data from different data sources
 - [x] Profile the data
 - [x] clean transform and load the data
------------------------------------------------------------------------------------------
+
 1. Get Data 
       >Power query editor: Home - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
 2. Getting multiple Files 
@@ -53,7 +52,7 @@ Activities related to Microsoft PL-300
 - [ ] Develop a data model
 - [ ] Create model calculation by  using DAX
 - [ ] Optimize model performance
------------------------------------------------------------------------------------------
+
 1. 
       >
 2. 
@@ -75,7 +74,7 @@ Activities related to Microsoft PL-300
 ### 4. Deploy and maintain Assets
 - [ ] Manage files and datasets
 - [ ] manage workspaces
------------------------------------------------------------------------------------------
+
 1. 
       >
 2. 
