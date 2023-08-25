@@ -2,7 +2,7 @@
 Activities related to Microsoft PL-300
 
 
-### Visualize and Analyze the Data
+### 1. Visualize and Analyze the Data
 - [x] Create Reports
 - [x] Create Dashboards
 - [x] Enhance reports for usability and storytelling
@@ -25,37 +25,72 @@ Activities related to Microsoft PL-300
       >powerbi report builder 
  -----------------------------------------------------------------------------------------    
 
-### Prepare the Data
+### 2. Prepare the Data
 - [x] Get data from different data sources
 - [x] Profile the data
 - [x] clean transform and load the data
 -----------------------------------------------------------------------------------------
 1. Get Data 
-     >Power query editor: Home - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
+      >Power query editor: Home - M language, Manage Columns, Reduce rows, First row as header, Sort, Filter, Split columns, other Transform
 2. Getting multiple Files 
-     >Power query editor: Home - Merge queries, Appending queries, Combined files, Load multiple files
+      >Power query editor: Home - Merge queries, Appending queries, Combined files, Load multiple files
 3. Transform
-      > pivot, unpivot
+      >pivot, unpivot
 4. Transform - Text and numbers
       >Add columns, Merged Columns, Text Extract, Parse, Numbers
 5. Transform - Date and Time
-      > Creating list of dates, other cultures, durations
+      >Creating list of dates, other cultures, durations
 6. Conditional columns 
       >columns from examples, Conditional columns, Resolve errors, Index & duplicate columns, Local
 7. View, Help
-      view, help, profiling data, advanced editor, M Function
-8. 
-      >
-      > 
+      >view, help, profiling data, advanced editor, M Function
+8. Get Other types of data
+      >SQL server, Query folding, SSAS, Azure SQL database, Microsoft Dataverse
+-----------------------------------------------------------------------------------------
 
-### Model the data
+### 3. Model the data
 - [ ] Design a data model
 - [ ] Develop a data model
 - [ ] Create model calculation by  using DAX
 - [ ] Optimize model performance
+-----------------------------------------------------------------------------------------
+1. 
+      >
+2. 
+      >
+3. 
+      >
+4. 
+      >
+5. 
+      >
+6. 
+      >
+7. 
+      >
+8. 
+      >
+-----------------------------------------------------------------------------------------
 
-### Deploy and maintain Assets
+### 4. Deploy and maintain Assets
 - [ ] Manage files and datasets
 - [ ] manage workspaces
-
+-----------------------------------------------------------------------------------------
+1. 
+      >
+2. 
+      >
+3. 
+      >
+4. 
+      >
+5. 
+      >
+6. 
+      >
+7. 
+      >
+8. 
+      >
+-----------------------------------------------------------------------------------------
 
