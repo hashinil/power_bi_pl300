@@ -40,8 +40,8 @@ Activities related to Microsoft PL-300
       >Add columns, Merged Columns, Text Extract, Parse, Numbers
 5. Transform - Date and Time
       > Creating list of dates, other cultures, durations
-6. 
-      >
+6. Add columns, View, Help 
+      >columns from examples, Conditional columns, Resolve errors, Index & duplicate columns, Local
 7. 
       >
 8. 
