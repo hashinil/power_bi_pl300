@@ -53,9 +53,9 @@ Activities related to Microsoft PL-300
 - [ ] Create model calculation by  using DAX
 - [ ] Optimize model performance
 
-1. 
-      >
-2. 
+1. Creating Data model
+      >Modeling, relationships
+2. DAX
       >
 3. 
       >
