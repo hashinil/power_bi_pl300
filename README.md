@@ -60,9 +60,9 @@ Activities related to Microsoft PL-300
 3. DAX
       >statical functions, Measures, Aggregation
 4. DAX
-      >Rounding functions
-5. 
-      >
+      >Rounding, division, Sign, abs, exp
+5. DAX
+      >Text functions
 6. 
       >
 7. 
