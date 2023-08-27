@@ -65,9 +65,11 @@ Activities related to Microsoft PL-300
       >Text functions
 6. DAX
       >Error- iserror, lookup
-7. 
-      >
+7. DAX
+      >Filters & Values
 8. 
+      >
+9. 
       >
 -----------------------------------------------------------------------------------------
 
