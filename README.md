@@ -56,9 +56,9 @@ Activities related to Microsoft PL-300
 1. Creating Data model
       >Modeling, relationships
 2. DAX
-      >
-3. 
-      >
+      >if, blank, is blank, and, or, not, switch
+3. DAX
+      >statical functions, Measures, Aggregation
 4. 
       >
 5. 
