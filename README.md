@@ -48,9 +48,9 @@ Activities related to Microsoft PL-300
 -----------------------------------------------------------------------------------------
 
 ### 3. Model the data
-- [ ] Design a data model
-- [ ] Develop a data model
-- [ ] Create model calculation by  using DAX
+- [x] Design a data model
+- [x] Develop a data model
+- [x] Create model calculation by  using DAX
 - [ ] Optimize model performance
 
 1. Creating Data model
@@ -59,8 +59,8 @@ Activities related to Microsoft PL-300
       >if, blank, is blank, and, or, not, switch
 3. DAX
       >statical functions, Measures, Aggregation
-4. 
-      >
+4. DAX
+      >Rounding functions
 5. 
       >
 6. 
