@@ -66,7 +66,7 @@ Activities related to Microsoft PL-300
 6. DAX
       >Error- iserror, lookup
 7. DAX
-      >Filters & Values
+      >Filters & Values, relatedtable, countrows
 8. 
       >
 9. 
