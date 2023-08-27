@@ -63,8 +63,8 @@ Activities related to Microsoft PL-300
       >Rounding, division, Sign, abs, exp
 5. DAX
       >Text functions
-6. 
-      >
+6. DAX
+      >Error- iserror, lookup
 7. 
       >
 8. 
