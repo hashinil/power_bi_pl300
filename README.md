@@ -66,9 +66,9 @@ Activities related to Microsoft PL-300
 6. DAX
       >Error- iserror, lookup
 7. DAX
-      >Filters & Values, relatedtable, countrows, context, All, Filter, Calculate, AllExcept, AllSelected
-8. 
-      >
+      >Filters & Values: relatedtable, countrows, context, All, Filter, Calculate, AllExcept, AllSelected
+8. DAX
+      >Time Intelligence: 
 9. 
       >
 -----------------------------------------------------------------------------------------
@@ -90,8 +90,6 @@ Activities related to Microsoft PL-300
 6. 
       >
 7. 
-      >
-8. 
       >
 -----------------------------------------------------------------------------------------
 
