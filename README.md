@@ -51,7 +51,7 @@ Activities related to Microsoft PL-300
 - [x] Design a data model
 - [x] Develop a data model
 - [x] Create model calculation by  using DAX
-- [ ] Optimize model performance
+- [x] Optimize model performance
 
 1. Creating Data model
       >Modeling, relationships
@@ -79,9 +79,9 @@ Activities related to Microsoft PL-300
 
 1. Power BI Service
       >
-2. Power Bi Pro, Adding Users 
+2. Power Bi Pro, Adding Users, export as a PPT
       >
-3. 
+3. Row Level Security
       >
 4. 
       >
