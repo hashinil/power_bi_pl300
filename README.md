@@ -77,9 +77,9 @@ Activities related to Microsoft PL-300
 - [ ] Manage files and datasets
 - [ ] manage workspaces
 
-1. 
+1. Power BI Service
       >
-2. 
+2. Power Bi Pro, Adding Users 
       >
 3. 
       >
