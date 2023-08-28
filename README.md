@@ -69,8 +69,8 @@ Activities related to Microsoft PL-300
       >Filters & Values: relatedtable, countrows, context, All, Filter, Calculate, AllExcept, AllSelected
 8. DAX
       >Time Intelligence: 
-9. 
-      >
+9. DAX
+      > other modeling topics
 -----------------------------------------------------------------------------------------
 
 ### 4. Deploy and maintain Assets
