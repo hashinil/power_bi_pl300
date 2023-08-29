@@ -86,8 +86,8 @@ Activities related to Microsoft PL-300
 4. Dashboard
       >dashboard, reports, tiles, mobile view, pin, Q&A, Theme, sensitivity, Data Alerts
 5. Manage DataSets
-      >
-6. 
+      >refresh: schedule, incremental
+6. Workspace
       >
 7. 
       >
