@@ -74,18 +74,18 @@ Activities related to Microsoft PL-300
 -----------------------------------------------------------------------------------------
 
 ### 4. Deploy and maintain Assets
-- [ ] Manage files and datasets
-- [ ] manage workspaces
+- [x] Manage files and datasets
+- [x] manage workspaces
 
 1. Power BI Service
       >
-2. Power Bi Pro, Adding Users, export as a PPT
-      >
+2. Power Bi Pro
+      >Adding Users, export as a PPT
 3. Row Level Security
-      >
-4. 
-      >
-5. 
+      >Static, Dynamic
+4. Dashboard
+      >dashboard, reports, tiles, mobile view, pin, Q&A, Theme, sensitivity, Data Alerts
+5. Manage DataSets
       >
 6. 
       >
